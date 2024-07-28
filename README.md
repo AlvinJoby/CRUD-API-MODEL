@@ -2,20 +2,6 @@
 
 Welcome to the CRUD-API-MODEL, a simple yet powerful API built using Node.js, Express, and MongoDB. This project demonstrates how to create a fully functional CRUD (Create, Read, Update, Delete) API with clean and maintainable code.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Endpoints](#endpoints)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Additional Packages](#additional-packages)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Features
-
 - **Create** new products
 - **Read** existing products
 - **Update** existing products
